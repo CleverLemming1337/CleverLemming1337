@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 - 💬 You can ask me about Python, HTML, CSS and JS
 
+---
+
 > Everytime it says "an unexpected error occured" I wonder what errors where expected...
