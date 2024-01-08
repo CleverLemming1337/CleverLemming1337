@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CleverLemming1337</h1>
-- 🌱 I’m currently learning **SQL and Angular**
+- 🌱 I’m currently learning __SQL and Angular__
 
 - 💬 Ask me about **Python, HTML, CSS and JavaScript**
 
