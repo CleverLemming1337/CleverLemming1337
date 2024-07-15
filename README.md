@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm CleverLemming1337</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleverlemming1337" alt="cleverlemming1337" /></a> </p>
 
-- 🔭 I’m currently working on **building back ends and front ends with FastAPI and Flask**
+- 🔭 I’m currently working on **some apps with SwiftUI**.
 
-- 🌱 I’m currently learning **Swift**. I'm also learning a bit about **machine learning**
+- 🌱 I’m currently learning **how operating systems work and how to build one**.
 
 - 💬 Ask me about **Python, HTML, CSS and JavaScript**
+
+- 👀 I'm looking to collaborate on **SwiftUI projects**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
