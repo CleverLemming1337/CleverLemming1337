@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CleverLemming1337</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleverlemming1337" alt="cleverlemming1337" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleverlemming1337&column=3" alt="cleverlemming1337" /></a> </p>
 
 - 🔭 I’m currently working on **some apps with SwiftUI**.
 
