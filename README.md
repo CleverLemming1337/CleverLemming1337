@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CleverLemming1337</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleverlemming1337&column=3" alt="cleverlemming1337" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleverlemming1337&column=3" alt="cleverlemming1337" /></a> </p>
 
 - 🔭 I’m currently working on **some apps with SwiftUI**.
 
@@ -19,7 +19,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleverlemming1337&show_icons=true&locale=en&layout=compact" alt="cleverlemming1337" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleverlemming1337&show_icons=true&locale=en&layout=compact" alt="cleverlemming1337" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleverlemming1337&show_icons=true&locale=en" alt="cleverlemming1337" /></p>
 
