@@ -3,11 +3,18 @@
 
 - 🔭 I’m currently working on **some apps with SwiftUI**.
 
-- 🌱 I’m currently learning **how operating systems work and how to build one**.
-
 - 💬 Ask me about **Python, HTML, CSS and JavaScript**
 
 - 👀 I'm looking to collaborate on **SwiftUI projects**.
+
+## My projects
+Check out my public repositories to get more information
+### OS Y
+A very simple operating system using EFI. Written in C.
+### CubeOS
+A JavaScript shell simulation.
+### SwiftUI Collection
+Collection of SwiftUI components that might be useful.
 
 <!--
 <h3 align="left">Connect with me:</h3>
