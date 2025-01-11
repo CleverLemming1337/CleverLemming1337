@@ -11,8 +11,6 @@
 Check out my public repositories to get more information
 ### Interactions
 Interactions is a SwiftUI-like framework for building terminal apps.
-### OS Y
-A very simple operating system using EFI. Written in C.
 ### CubeOS
 A JavaScript shell simulation.
 
