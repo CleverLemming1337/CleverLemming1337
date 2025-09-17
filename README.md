@@ -7,13 +7,6 @@
 
 - 👀 I'm looking to collaborate on any interesting project that needs help.
 
-## My projects
-Check out my public repositories to get more information
-### Interactions
-Interactions is a SwiftUI-like framework for building terminal apps.
-### CubeOS
-A JavaScript shell simulation.
-
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
