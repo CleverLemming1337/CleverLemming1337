@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CleverLemming1337</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleverlemming1337&column=3" alt="cleverlemming1337" /></a> </p>
 
-- 🔭 I’m currently working on [Interactions](https://github.com/CleverLemming1337/Interactions-swift), a SwiftUI-like framework for terminal apps.
+<!--- 🔭 I’m currently working on [Interactions](https://github.com/CleverLemming1337/Interactions-swift), a SwiftUI-like framework for terminal apps.-->
 
 - 💬 Ask me about **Python, HTML, CSS, JavaScript (TypeScript) and Swift**
 
